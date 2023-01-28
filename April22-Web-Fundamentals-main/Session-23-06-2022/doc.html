@@ -1,0 +1,31 @@
+<html lang="en">
+  <head>
+    <title>Document Object</title>
+    <script>
+      function displayDocumentObject() {
+        var h2Reference = document.getElementById("h2Ref");
+        var obj = {
+          name : "sanjeevani",
+          city : "Maharashtra",
+          phone : 9022636232,
+        };
+
+        for (var property in obj) {
+          document.write(property + ":" + obj[property]);
+          document.write("<br>");
+        }
+
+        //document is pri define concept
+
+        // for (var property in h2Reference) {
+        //   document.write(property);
+        //   document.write("<br>");
+        // }
+      }
+    </script>
+  </head>
+  <body>
+    <h2 id="h2Ref">Document Object</h2>
+    <button onclick="displayDocumentObject()">Print</button>
+  </body>
+</html>

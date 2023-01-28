@@ -1,0 +1,153 @@
+help to understand the concept
+concept
+what is concept ??
+why this concept ??
+how to apply this concept
+where to apply THIS concept ??
+when to apply this concept ??
+
+
+
+what is the recurjan??
+what is TO List??
+what is Array :
+    Array is a DataStructure and collation of elements
+    store any type Data ex (int, boolean, string ) 
+
+what is Object
+    object is Data Structure
+what is purpose of Object
+    it is use to store the data in the form of the Properties (ker value pair);
+    //object format
+    var student={
+        name = "Geekstar" // "name" is key and key is alway uniq , "Geekstar" is value 
+        email =
+        pohone
+    }
+
+do you know DataStructure
+     yes
+     Array and Object 
+     both  are different DataStructure.
+
+what is database
+    store the data
+
+    //object
+// access
+// Insert
+// Update
+// Delete
+// nested       //in object
+// function
+// Object + array
+// array + Object
+
+Access Particular Property in Object
+    console.log(product.price);
+
+Insert Or Add Property inside Object using the js Code  
+    Objectname.city= "Solapur";
+
+Update Property inside Object using the js Code  
+    Objectname.city= "Solapur"
+
+    // Already Property is present with the key -Updation
+    //if Property is not present with that key - Inseration
+delete Property
+
+
+filter()
+
+    Insert()
+    pop()
+    sort()
+    filter()       //in Array
+
+
+javascript
+variables
+function
+    normal function
+    parameterised function
+    returned function
+    callback function
+Array used
+
+1)  Queues
+2)  Stacks
+
+array use in Queues
+most database uses Queues and Stacks
+
+1)   push       adds and element to the end(back side in). pushing in back
+2)   shift      get(out off) the element from begining. shifting in front
+3)   slice()     add in betweent the Array
+
+LIFO= last in First out
+
+1)   push       adds and element to the end(back side in).
+2)   shift      get(out off) romove the element from end(back side in)(delet).
+
+array use in Stacks
+1)      pile of book
+2)      pile of plates
+
+1)push:     adding element from end.
+2)pop:      remove element from end.
+3)shift:    get the first element of the array and returns it / remove element fron element from start 
+4)unshift:  adds the element to start.
+
+front          mid       end
+shift           slice    pop
+unshift                  push
+
+
+pop/ push operation run faster; eassay to out and come in end side
+shift/ unshift opration are slower; it destrbing in other element then come in out strting side;
+
+Arrays
+1) push()        2) pop()
+3) shift()       3) unshift()
+4) slice()       4) sort()
+5) indexOf()     6) join()
+7) concate()     8) include()
+
+9) map()         10) filter()
+11) reduce()     12) splic()
+13) Slice()
+
+length property
+it present no of element inside the array
+var a=[a,v,s,d]
+
+
+callback function
+Any function which is passed as a argument that function is called callback function.
+
+
+what is Object;
+
+Loop
+Control statement
+functions
+Arrays
+Object
+
+opraters
+arthmatic opraters
+logical opraters
+
+filter()
+
+
+//map()
+it is Pre-define function or method of array
+it help us to preform same operaton on each and every element.
+
+var data=[20,40,50,30] all in 10
+syntax.... grammer
+
+<Arrayname>.map(function(element, index)){
+    return
+}

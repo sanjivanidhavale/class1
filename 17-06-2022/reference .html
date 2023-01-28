@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <script>
+        function changeH2() {
+            var h1Reference= document.getElementById("h1Ref")
+                h1Reference.innerText = "Dom Manipolation"
+                h1Reference.style.background='green'
+                h1Reference.style.color = 'coral'
+
+            var h3Reference = document.getElementById("h3Ref")
+                h3Reference.innerText = "JavaScript"
+                h3Reference.style.background = 'pink'
+                h3Reference.style.color='red'
+
+            var p1Reference = document.getElementById("p1")
+                p1Reference.innerText = "This is javascript code"
+                p1Reference.style.color='blue'
+                p1Reference.style.background='orange'
+        }
+    </script>
+
+</head>
+<body>
+    
+    <h1 id="h1Ref"> Hello, sanjeevani</h1>
+    <h3 id="h3Ref">Welcome to Javascript</h3>
+    <p id="p1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita quis praesentium vitae impedit. Similique earum suscipit voluptatum tenetur, asperiores dolorem fugit nobis nulla quas labore necessitatibus placeat, eveniet, blanditiis consectetur?
+    </p>
+    <button onclick="changeH2()">Do Action</button>
+</body>
+</html>

@@ -1,0 +1,75 @@
+Get the Reference of that Element Iin JavaScript function;
+    document.getElementById("Referance  id name")
+
+    Referance of the any html element or tag will be in object format
+
+If we want to Perform any oprations on the html or element tag or element then first get the reference of that html element or tag
+    document.getElementById("Referance  id name")
+
+    event 
+    Browser Storage
+    Promis 
+    Frtch
+    oprations
+    Ajax
+    Asyn await
+    call,apply,bind
+    setInterval, setTimeout
+    internal of Js(js Engin)
+
+    How to creat dunamic html Element using javascript
+    how to remove exiting Element form 
+    in Dom
+
+
+    //25*06*2022
+
+    static 
+        Any static property or static method can accessed using classname inside the class or outside class
+        In any static block you can access only static Members(property+ Method)
+        in any non static block, we can static members and static Members
+        all non static members can be accessed with this keyword inside the classand using object name outside the class.
+
+Opps concept
+    Abstract
+        Access Modifires // javascript not support this concept
+            public 
+            private
+            protected
+        interface // javascript not support this concept
+        Abstract class // javascript not support this concept
+        Abstract Method // javascript not support this concept
+
+    Inheritance
+        Resuability
+        you can access Properties or Methods of one class into another class.
+        Parent-Child Relationship between two class
+        You can use Properties + Methods of Parent class into Child Class.
+
+        classes: blueprints
+                    Parent class:
+            child class1         child class 2
+            drived class1 also
+
+
+        lern Inheritance concept by own;
+            single Inheritance
+            Multi level Inheritance
+            Hierical Inheritance
+            Hybrid Inheritance
+
+    polymorphism
+
+
+
+    Encapsulation
+        It is tecnique to wrap your data into a single unit
+            ex. any class
+        security
+    
+    Abstraction // javascript not support this concept
+
+27-06-2022
+    
+
+
